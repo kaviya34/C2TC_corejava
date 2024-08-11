@@ -1,0 +1,10 @@
+package day11;
+
+public class TryCatchExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
